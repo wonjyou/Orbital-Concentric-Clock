@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Concentric Clock",
+  "description": "A high-performance, responsive web-based clock featuring three concentric circular tracks representing hours, minutes, and seconds with a digital heart.",
+  "requestFramePermissions": []
+}
